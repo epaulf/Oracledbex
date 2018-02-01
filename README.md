@@ -16,7 +16,7 @@
 
 Oracledbex requires the Erlang ODBC application to be installed.
 
-### ***To install what is necessary for the odbc connection, refer to the following manual:*** [ODBC.md]()  
+### ***To install what is necessary for the odbc connection, refer to the following manual:*** [ODBC.md](https://github.com/epaulf/Oracledbex/blob/master/Connect_erlang_to_Oracle_db_with_Unixodbc.md)  
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `oracledbex` to your list of dependencies in `mix.exs`:
