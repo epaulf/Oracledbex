@@ -1,4 +1,5 @@
 # Oracledbex
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg?style=plastic)](https://github.com/epaulf/Oracledbex)
 [![Coverage Status](https://coveralls.io/repos/github/epaulf/Oracledbex/badge.svg?branch=master)](https://coveralls.io/github/epaulf/Oracledbex?branch=master)
 [![GitHub stars](https://img.shields.io/github/stars/epaulf/Oracledbex.svg?style=plastic)](https://github.com/epaulf/Oracledbex/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/epaulf/Oracledbex/.svg?style=social&style=plastic)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fepaulf%2FOracledbex%2F)
